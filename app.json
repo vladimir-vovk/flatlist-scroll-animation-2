@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "flatlist-scroll-animation-2",
+    "slug": "flatlist-scroll-animation-2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "flatlist-scroll-animation-2"
+}
